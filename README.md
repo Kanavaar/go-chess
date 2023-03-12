@@ -1,3 +1,3 @@
-# go-chess-gui
+# Chess
 
 A chess gui in go
